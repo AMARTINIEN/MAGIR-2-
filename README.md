@@ -1,0 +1,2 @@
+# MAGIR-2-
+Présentation : MAVEN et CAS PRATIQUE avec PLUGIN ARCHETYPE
